@@ -66,8 +66,8 @@ namespace Making_a_Player_Class
 
         public void Grow()
         {
-            _location.Width += 1;
-            _location.Height += 1;
+            _location.Width += 10;
+            _location.Height += 10;
         }
     }
 }
